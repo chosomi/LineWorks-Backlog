@@ -9,6 +9,7 @@ from flask import Flask, request, abort
 from dotenv import load_dotenv
 import jwt
 
+#テスト
 # .envファイルから環境変数を読み込む
 load_dotenv()
 
